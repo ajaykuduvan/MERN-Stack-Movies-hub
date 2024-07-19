@@ -1,2 +1,2 @@
-﻿# MERN Stack Movies App 👇
+﻿# MERN Stack Movies App 
 
